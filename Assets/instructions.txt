@@ -1,0 +1,3 @@
+1 - press on the ludo image to start.
+2 - press on the roll dice button to roll the dice.
+3 - press on the red chip to start moving.
